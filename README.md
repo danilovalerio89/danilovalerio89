@@ -1,7 +1,7 @@
-# Olá! Sou o Danilo (ele/dele), desenvolvedor front-end!
+# Olá! Sou o Danilo (ele/dele), desenvolvedor full stack!
 
 - 📖 Estudante da Kenzie Academy Brasil
-- 🔍 Procurando uma oportunidade como desenvolvedor front-end.
+- 🔍 Procurando uma oportunidade como desenvolvedor full stack.
 - 🌱 Estou aprendendo atualmente back-end (Python, Postgre e TypeORM)
 
 <div>
